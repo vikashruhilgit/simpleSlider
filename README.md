@@ -1,9 +1,13 @@
 Slider DOC:-
 
 Project Name : simple slider
+
 Date: 04-05-208
+
 Version: 1.0.1
+
 Author : vikash Ruhil
+
 Description:  1. simple html, Css and Javascript base Project
               2. slider with Previous and Next button
               3. Title option on each slider
